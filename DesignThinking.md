@@ -27,15 +27,18 @@ Além disso, o projeto visa intermediar o contato entre profissionais especializ
 - Tendência crescente por alimentação saudável: A busca por soluções alimentares mais conscientes e saudáveis tem se intensificado. O público está cada vez mais atento às necessidades dietéticas específicas e à qualidade dos alimentos, o que aumenta a demanda por produtos e serviços que ofereçam segurança alimentar.
 - Tecnologia como aliada: O uso de apps, inteligência artificial e sistemas de rastreamento de alimentos pode melhorar a gestão de dietas restritivas, promovendo maior controle sobre a alimentação.
 - Parcerias com profissionais da saúde: Nutricionistas e médicos estão cada vez mais recomendando dietas personalizadas, o que pode aumentar a adesão ao seu projeto.
-*Fraquezas*
+  
+*Fraquezas:*
 - Falta de conscientização no público geral: Apesar do crescente interesse, ainda há uma falta de compreensão sobre a importância da segurança alimentar e das dietas seletivas, especialmente em populações com menos acesso à informação.
 - Custo de implementação de tecnologias avançadas: Soluções tecnológicas de ponta (como rastreamento de alimentos, blockchain para garantir a origem dos produtos, etc.) podem ser caras e difíceis de implementar em larga escala.
 - Adesão limitada a mudanças de hábitos alimentares: Mudar hábitos alimentares pode ser um desafio, e muitas pessoas não estão dispostas a investir tempo e dinheiro em novas soluções, principalmente se não sentirem uma necessidade urgente.
-*Oportunidades:*
--Expansão do mercado de alimentos personalizados: O mercado de alimentos para necessidades específicas (como dietas para intolerâncias alimentares ou doenças crônicas) está em crescimento. A demanda por opções de alimentação que atendem às necessidades de saúde específicas é enorme.
+  
+*Oportunidades:* 
+- Expansão do mercado de alimentos personalizados: O mercado de alimentos para necessidades específicas (como dietas para intolerâncias alimentares ou doenças crônicas) está em crescimento. A demanda por opções de alimentação que atendem às necessidades de saúde específicas é enorme.
 - Tecnologia e inovação em rastreamento de alimentos: Ferramentas como Blockchain, QR Codes e Internet das Coisas (IoT) têm impulsionado o rastreamento da procedência e a segurança dos alimentos. A tecnologia de Blockchain permite registrar de forma segura e transparente todas as etapas do percurso do alimento, aumentando a confiança dos consumidores. QR Codes nas embalagens facilitam o acesso rápido a informações detalhadas sobre origem, processos de produção e certificações. Já sensores de IoT monitoram em tempo real condições como temperatura e umidade durante o transporte e armazenamento, assegurando a qualidade e a segurança dos produtos. A integração dessas tecnologias no projeto representa uma oportunidade real de inovação e diferenciação no mercado.
 - Apoio a iniciativas sustentáveis: Muitos consumidores e governos estão buscando soluções que também atendam a questões ambientais, como a redução do desperdício de alimentos, tornando sua solução ainda mais atraente.
 - Iniciativas globais de segurança alimentar: O mundo está cada vez mais atento às questões de segurança alimentar, com eventos como a pandemia de COVID-19 e mudanças climáticas exacerbando a necessidade de sistemas alimentares mais seguros e sustentáveis.
+  
 *Ameaças:*
 - Concorrência crescente: O setor de alimentação saudável e segurança alimentar está altamente competitivo, com muitas empresas e startups investindo em soluções semelhantes. Desde grandes players do mercado até novas iniciativas, a concorrência pode dificultar a diferenciação do seu projeto.
 - Regulamentações e burocracia: A área de segurança alimentar é bastante regulamentada, e mudanças nas leis ou novas exigências podem aumentar os custos ou atrasar o desenvolvimento de soluções.
