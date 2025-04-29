@@ -1,6 +1,6 @@
 # Projeto de Engenharia de Software 1 - Design Thinking
 ## Tema: Segurança Alimentar - Alimentação Seletiva/Restrição Alimentar
-### Equipe: 6 pessoas (Subtituir por nome  dos integrantes 
+### Equipe: 6 pessoas (Subtituir por nome  dos integrantes)
  
 # 1. Inspiração
 O projeto busca conscientizar, informar e acolher. Nosso objetivo é sensibilizar a sociedade quanto à seriedade dos casos de seletividade e restrições alimentares, muitas vezes negligenciados ou mal compreendidos. Pretendemos informar a população para que reconheça sinais dessas condições em si mesmos ou em terceiros, e acolher os indivíduos afetados, oferecendo suporte empático e adequado.
@@ -44,7 +44,7 @@ Além disso, o projeto visa intermediar o contato entre profissionais especializ
 
 ### Quadro Comparativo de Soluções Existentes:
 
-| Critério           | Solução A – IBM Food Trust        | Solução B – Safe Trace          | Nossa Solução – SafeFood Select |
+| Critério           | Solução A – IBM Food Trust        | Solução B – Safe Trace          | Nossa Solução – (nome a decidir) |
 |--------------------|-----------------------------------|---------------------------------|---------------------------------|
 | **Modelo de Negócio** | Plataforma B2B para grandes cadeias alimentares (empresa para empresa). | Plataforma B2B para produtores e supermercados (empresa para empresa). | Aplicativo B2C e B2B2C, conectando pacientes, profissionais de saúde e rede de apoio, focado em rastreabilidade alimentar personalizada. |
 | **Tecnologia**       | Blockchain e IoT para rastrear produtos na cadeia global de abastecimento. | QR Codes e sistemas de rastreamento voltados ao agronegócio brasileiro. | Blockchain público para rastreio de informações críticas, QR Codes para acesso rápido às informações nutricionais e alertas via IoT em alimentos de alto risco. |
