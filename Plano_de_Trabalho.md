@@ -279,7 +279,7 @@ Antes da etapa de desenvolvimento, será feita uma nova revisão do backlog no G
 |--------------------|--------------------|-----------------------------------|
 | Marcelly Souza     | Product Owner (PO)  | Definir a visão do produto, priorizar funcionalidades, garantir alinhamento entre as partes interessadas e a equipe de desenvolvimento, tomar decisões chave sobre o produto. |
 | Nathalya Macêdo    | Scrum Master       | Facilitar o processo Scrum, remover impedimentos, garantir que a equipe siga os princípios e práticas ágeis, promover a comunicação eficiente entre os membros da equipe. |
-| Raissa Martins     | Desenvolvedora (Dev)| Desenvolvimento de funcionalidades do sistema, implementação de features, manutenção de código, colaboração com a equipe para garantir a qualidade técnica do produto. |
+| Juliano Matheus    | Desenvolvedor (Dev)| Desenvolvimento de funcionalidades do sistema, implementação de features, manutenção de código, colaboração com a equipe para garantir a qualidade técnica do produto. |
 | Johnny Xavier      | Desenvolvedor (Dev) | Desenvolvimento de funcionalidades do sistema, implementação de features, testes e correção de bugs, colaboração com a equipe para garantir a qualidade técnica do produto. |
 
 
