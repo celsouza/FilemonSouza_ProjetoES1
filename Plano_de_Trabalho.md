@@ -281,6 +281,7 @@ Antes da etapa de desenvolvimento, será feita uma nova revisão do backlog no G
 | Nathalya Macêdo    | Scrum Master       | Facilitar o processo Scrum, remover impedimentos, garantir que a equipe siga os princípios e práticas ágeis, promover a comunicação eficiente entre os membros da equipe. |
 | Juliano Matheus    | Desenvolvedor (Dev)| Desenvolvimento de funcionalidades do sistema, implementação de features, manutenção de código, colaboração com a equipe para garantir a qualidade técnica do produto. |
 | Johnny Xavier      | Desenvolvedor (Dev) | Desenvolvimento de funcionalidades do sistema, implementação de features, testes e correção de bugs, colaboração com a equipe para garantir a qualidade técnica do produto. |
+| Alexandre Reis      | Desenvolvedor (Dev) | Desenvolvimento de interfaces centradas no usuário, implementação de features com foco em usabilidade, realização de testes de experiência, correção de bugs relacionados à interação e colaboração com a equipe para garantir a qualidade técnica e a satisfação do usuário final. |
 
 
 ### 3.3 Backlog do Sprint
