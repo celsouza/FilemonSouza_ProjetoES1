@@ -88,14 +88,17 @@ A SafeFood será uma **plataforma digital web**, que permitirá:
 - A curadoria de conteúdos é feita com base em orientações profissionais, mas sempre respeitando os limites éticos e o lugar de escuta ativa.
 - Os filtros inteligentes, combinados com QR Codes e o uso de preferências alimentares, permitem uma experiência **personalizada e respeitosa**.
 
-## 1.3 Personas
+# 1.3 Personas
 
-| Persona            | Perfil resumido                                                                 | Dores principais                                                                 | Necessidades e objetivos                                                     |
-|--------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| **Usuário final**  | Pessoa com alimentação seletiva ou restrições alimentares (ex: intolerância, TEA, TCA, alergias) | Invisibilidade social, estigmatização, medo de julgamentos, acesso difícil a informações confiáveis | Sentir-se acolhido, receber informações seguras e empáticas, encontrar profissionais confiáveis, trocar experiências |
-| **Profissional da saúde** | Nutricionista, psicólogo ou outro profissional que atua em contextos de seletividade alimentar | Falta de canais acessíveis, desinformação do público, dificuldade de oferecer suporte fora de consultas formais | Oferecer conteúdo de qualidade, orientar dentro dos limites éticos, criar vínculo seguro com pacientes e rede de apoio |
-| **Rede de apoio**  | Familiares, cuidadores ou amigos próximos das pessoas com restrições alimentares | Dificuldade de entender a seletividade, medo de errar, sobrecarga emocional, falta de orientação prática | Aprender a acolher sem pressionar, acessar informações claras, participar ativamente do cuidado alimentar com empatia |
+| Persona                 | Perfil resumido                                                                 | Dores principais                                                                 | Necessidades e objetivos                                                     |
+|-------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| **Usuário final**        | Pessoa com alimentação seletiva ou restrições alimentares (ex: intolerância, TEA, TCA, alergias) | Invisibilidade social, estigmatização, medo de julgamentos, acesso difícil a informações confiáveis | Sentir-se acolhido, receber informações seguras e empáticas, encontrar profissionais confiáveis, trocar experiências |
+| **Profissional da saúde**| Nutricionista, psicólogo ou outro profissional que atua em contextos de seletividade alimentar | Falta de canais acessíveis, desinformação do público, dificuldade de oferecer suporte fora de consultas formais | Oferecer conteúdo de qualidade, orientar dentro dos limites éticos, criar vínculo seguro com pacientes e rede de apoio |
+| **Rede de apoio**        | Familiares, cuidadores ou amigos próximos das pessoas com restrições alimentares | Dificuldade de entender a seletividade, medo de errar, sobrecarga emocional, falta de orientação prática | Aprender a acolher sem pressionar, acessar informações claras, participar ativamente do cuidado alimentar com empatia |
 
-🔗 [Acesse as personas completas no HubSpot](<adicione aqui o link após criação>)
+🔗 [Acesse a persona Usuário final no HubSpot](https://br.hubspot.com/make-my-persona?persona=-OPupvr8rVpoOZqk3tc-)  
+🔗 [Acesse a persona Profissional da saúde no HubSpot](https://br.hubspot.com/make-my-persona?persona=-OPuyJvp0F1YndIm84NM)  
+🔗 [Acesse a persona Rede de apoio no HubSpot](https://br.hubspot.com/make-my-persona?persona=-OPv-4Nd_Be0V0LxzUAU)
+
 
 
