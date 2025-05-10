@@ -86,5 +86,16 @@ A SafeFood será uma **plataforma digital web**, que permitirá:
 - Não tem foco em vendas, dietas restritivas para emagrecimento ou diagnósticos, e sim em **acolhimento, informação acessível e empática**.
 - Propõe a integração da **rede de apoio como protagonista**, ampliando o impacto do cuidado e da conscientização.
 - A curadoria de conteúdos é feita com base em orientações profissionais, mas sempre respeitando os limites éticos e o lugar de escuta ativa.
-- Os filtros inteligentes, combinados com QR Codes e o uso de preferências alimentares, permitem uma experiência **personalizada e respeitosa**. 
+- Os filtros inteligentes, combinados com QR Codes e o uso de preferências alimentares, permitem uma experiência **personalizada e respeitosa**.
+
+## 1.3 Personas
+
+| Persona            | Perfil resumido                                                                 | Dores principais                                                                 | Necessidades e objetivos                                                     |
+|--------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| **Usuário final**  | Pessoa com alimentação seletiva ou restrições alimentares (ex: intolerância, TEA, TCA, alergias) | Invisibilidade social, estigmatização, medo de julgamentos, acesso difícil a informações confiáveis | Sentir-se acolhido, receber informações seguras e empáticas, encontrar profissionais confiáveis, trocar experiências |
+| **Profissional da saúde** | Nutricionista, psicólogo ou outro profissional que atua em contextos de seletividade alimentar | Falta de canais acessíveis, desinformação do público, dificuldade de oferecer suporte fora de consultas formais | Oferecer conteúdo de qualidade, orientar dentro dos limites éticos, criar vínculo seguro com pacientes e rede de apoio |
+| **Rede de apoio**  | Familiares, cuidadores ou amigos próximos das pessoas com restrições alimentares | Dificuldade de entender a seletividade, medo de errar, sobrecarga emocional, falta de orientação prática | Aprender a acolher sem pressionar, acessar informações claras, participar ativamente do cuidado alimentar com empatia |
+
+🔗 [Acesse as personas completas no HubSpot](<adicione aqui o link após criação>)
+
 
