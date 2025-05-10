@@ -1,6 +1,6 @@
 # *SafeFood(Sujeito a alteração)* Projeto de Engenharia de Software 1 - Design Thinking
 ## Tema: Segurança Alimentar - Alimentação Seletiva/Restrição Alimentar
-### Equipe: Marcelly Filemon Nery de Souza
+### Autor: Marcelly Filemon Nery de Souza
  
 # 1. Inspiração
 O projeto SafeFood nasce da necessidade de oferecer acolhimento, informação e suporte a pessoas com seletividade e restrições alimentares — condições frequentemente negligenciadas ou mal compreendidas. A iniciativa busca conscientizar, informar e acolher, promovendo um espaço seguro para escuta, troca de experiências e orientação adequada.
