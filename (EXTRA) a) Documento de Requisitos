@@ -1,0 +1,47 @@
+# Requisitos do Sistema - SafeFood
+
+## 1. Visão Geral
+
+A plataforma SafeFood tem como objetivo principal promover segurança alimentar e acolhimento para pessoas com seletividade e restrições alimentares. Ela oferece suporte informativo, emocional e funcional por meio de ferramentas como personalização alimentar, intermediação com profissionais da saúde e acesso a conteúdo qualificado.
+
+---
+
+## 2. Requisitos Funcionais
+
+| ID     | Requisito Funcional                                                                                         |
+|--------|-------------------------------------------------------------------------------------------------------------|
+| RF01   | O sistema deve permitir que usuários criem um perfil personalizado, incluindo restrições alimentares específicas. |
+| RF02   | O sistema deve permitir que usuários adicionem ou removam ingredientes da sua lista de alimentos proibidos ou evitados. |
+| RF03   | O sistema deve oferecer uma busca por receitas filtradas de acordo com o perfil alimentar do usuário.       |
+| RF04   | O sistema deve permitir que usuários favoritem receitas, relatos e conteúdos educativos.                    |
+| RF05   | O sistema deve disponibilizar relatos de usuários sobre suas experiências com alimentação seletiva/restritiva. |
+| RF06   | O sistema deve possuir um processo de aprovação para relatos antes da publicação.                           |
+| RF07   | O sistema deve permitir que usuários agendem consultas com profissionais da saúde cadastrados.              |
+| RF08   | O sistema deve permitir o cadastro e a autenticação de profissionais da saúde com validação de credenciais. |
+| RF09   | O sistema deve oferecer conteúdos educativos organizados por categorias (doenças, transtornos, tipos de dieta, etc.). |
+| RF10   | O sistema deve permitir que usuários utilizem um bloco de notas pessoal para registrar alimentos, sintomas ou observações. |
+| RF11   | O sistema deve enviar alertas de atenção para ingredientes que entram em conflito com o perfil alimentar do usuário. |
+| RF12   | O sistema deve permitir que profissionais compartilhem receitas ou recomendações específicas.               |
+| RF13   | O sistema deve oferecer uma interface para cuidadores ou responsáveis monitorarem perfis de dependentes.     |
+| RF14   | O sistema deve permitir a navegação por categorias de condições alimentares (ex: celíacos, dispepsia, autismo, etc.). |
+
+---
+
+## 3. Requisitos Não Funcionais
+
+| ID     | Requisito Não Funcional                                                                                     |
+|--------|-------------------------------------------------------------------------------------------------------------|
+| RNF01  | O sistema deve estar disponível 99% do tempo em horários úteis.                                              |
+| RNF02  | A plataforma deve ser responsiva e acessível em dispositivos móveis e desktops.                             |
+| RNF03  | O sistema deve seguir diretrizes de acessibilidade (ex: WCAG 2.1) para pessoas com deficiências visuais ou cognitivas. |
+| RNF04  | As respostas às ações do usuário (ex: salvar favoritos, carregar receitas) devem ocorrer em no máximo 2 segundos. |
+| RNF05  | Os dados pessoais e alimentares dos usuários devem ser armazenados com criptografia e conformidade com a LGPD. |
+| RNF06  | O sistema deve ser capaz de suportar 500 usuários simultâneos em sua versão MVP.                            |
+| RNF07  | A interface deve ter linguagem simples, amigável e empática, adequada ao público-alvo.                      |
+| RNF08  | O sistema deve estar preparado para integração futura com APIs externas (ex: sistemas de saúde, bancos de dados nutricionais). |
+
+---
+
+## 4. Observações Finais
+
+Este documento será atualizado conforme o desenvolvimento da plataforma SafeFood avança e novas funcionalidades forem identificadas por meio do feedback dos usuários, validação com profissionais da saúde e testes de usabilidade.
