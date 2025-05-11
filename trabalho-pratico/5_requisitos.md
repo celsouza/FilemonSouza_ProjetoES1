@@ -1,73 +1,48 @@
-# 📚 Referências
+# 🛡️ Requisitos do Sistema — SafeFood
 
-Este documento reúne as principais fontes utilizadas na construção do projeto, abordando transtornos alimentares, alergias, seletividade alimentar, uso de QR Codes em embalagens e ferramentas digitais relacionadas à nutrição.
+## 1. Visão Geral
 
----
-
-## 🧠 Transtornos Alimentares
-
-- **Aspectos culturais nos transtornos alimentares**  
-  Discute a influência dos padrões culturais na prevalência de anorexia e bulimia, especialmente entre adolescentes.  
-  🔗 [Leia o artigo completo](https://www.scielo.br/j/rbp/a/P6XZkzr5nTjmdVBTYyJVZPD/?format=html)
+O SafeFood é uma plataforma digital acolhedora e segura, desenvolvida para atender pessoas com seletividade e restrições alimentares. Seu propósito é ir além da nutrição: ela visa proporcionar bem-estar, apoio emocional e autonomia alimentar, conectando usuários com profissionais da saúde e oferecendo recursos personalizados para o dia a dia.
 
 ---
 
-## 🌾 Alergias Alimentares
+## 2. Requisitos Funcionais
 
-- **Alergias alimentares em crianças: influência da microbiota intestinal**  
-  Aborda como a microbiota intestinal interfere no desenvolvimento de alergias alimentares, ressaltando a importância do diagnóstico precoce e da alimentação funcional.  
-  🔗 [Leia o capítulo completo](https://cinasama.com.br/wp-content/uploads/2021/09/NUTRI%C3%87%C3%83O-E-SA%C3%9ADE-vol-1-ANO-2017.pdf#page=15)
-
----
-
-## 🍽️ Seletividade Alimentar
-
-- **Seletividade alimentar em crianças e adolescentes**  
-  Analisa fatores psicológicos e sensoriais que impactam a alimentação seletiva na infância.  
-  🔗 [Leia o artigo completo](https://www.scielo.br/j/jbpsiq/a/XMDX3Wc8Xn7XbcYvRfjdSpd/)
-
-- **Narrativas de mães sobre seletividade alimentar e autismo**  
-  Estudo qualitativo que investiga como a seletividade alimentar de crianças com TEA impacta a rotina familiar.  
-  🔗 [Leia o artigo completo](https://www.scielo.br/j/cadbto/a/hZ4RyjSvfmXYFjGKPFqCrnb/?format=html&lang=pt)
-
-- **Comportamento alimentar seletivo em contexto educacional**  
-  Relato técnico com estratégias e práticas para lidar com a seletividade alimentar em ambientes escolares e familiares.  
-  🔗 [Leia o artigo completo](https://atividadeparaeducacaoespecial.com/wp-content/uploads/2014/12/alimenta%C3%A7%C3%A3o-seletiva.pdf)
-
-- **Perfil clínico e demográfico de crianças com seletividade alimentar**  
-  Tese de mestrado que investiga padrões e causas clínicas da seletividade alimentar na infância.  
-  🔗 [Leia o estudo completo](https://repositorio.ufu.br/handle/123456789/44792)
+| ID     | Requisito Funcional                                                                                         |
+|--------|-------------------------------------------------------------------------------------------------------------|
+| RF01   | O sistema deve permitir o cadastro de perfis personalizados, com detalhamento das restrições alimentares do usuário. |
+| RF02   | O sistema deve permitir a adição e remoção de ingredientes indesejados ou proibidos conforme o perfil alimentar. |
+| RF03   | O sistema deve disponibilizar uma busca inteligente por receitas filtradas pelo perfil alimentar.            |
+| RF04   | O sistema deve permitir que usuários favoritem receitas, relatos e conteúdos educativos para consulta posterior. |
+| RF05   | O sistema deve oferecer um espaço para relatos de experiências pessoais com alimentação seletiva/restritiva. |
+| RF06   | O sistema deve submeter relatos a um processo de revisão e aprovação antes da publicação.                   |
+| RF07   | O sistema deve permitir o agendamento de consultas com profissionais da saúde cadastrados.                   |
+| RF08   | O sistema deve permitir o cadastro de profissionais da saúde com validação de credenciais e verificação de confiabilidade. |
+| RF09   | O sistema deve oferecer uma biblioteca com conteúdos educativos organizados por temas (condições, tipos de dieta, transtornos, etc.). |
+| RF10   | O sistema deve disponibilizar um bloco de anotações pessoais para registro de alimentos, sintomas e observações. |
+| RF11   | O sistema deve gerar alertas de atenção sobre ingredientes que entrem em conflito com o perfil do usuário.    |
+| RF12   | O sistema deve permitir que profissionais compartilhem receitas ou orientações alimentares específicas.      |
+| RF13   | O sistema deve incluir uma interface dedicada para cuidadores acompanharem os perfis de dependentes.         |
+| RF14   | O sistema deve permitir navegação por categorias de condições alimentares (ex: autismo, celíacos, intolerâncias específicas). |
 
 ---
 
-## 📦 QR Codes em Embalagens
+## 3. Requisitos Não Funcionais
 
-- **QR Code para alimentos: rastreabilidade e transparência**  
-  Mostra como o uso de QR Codes nas embalagens ajuda a informar o consumidor sobre ingredientes, alérgenos e dados nutricionais.  
-  🔗 [Leia o artigo completo](https://me-qr.com/pt/page/cases/qr-code-for-food)
-
-- **Importância do QR Code nas embalagens**  
-  Discute como os QR Codes facilitam a logística, rastreamento e marketing na indústria alimentícia.  
-  🔗 [Leia o artigo completo](https://blog.bluesoft.com.br/importancia-qr-code-nas-embalagens)
-
-- **Casos de uso: QR Codes em embalagens de alimentos**  
-  Apresenta os principais benefícios do uso dos códigos QR para inclusão de informações nutricionais, modo de preparo, entre outros.  
-  🔗 [Leia o artigo completo](https://qrcodekit.com/pt-br/casos-de-utilizacao/codigos-qr-em-embalagem-de-alimentos/)
-
----
-
-## 📱 Aplicativos e Ferramentas Digitais
-
-- **Yummly – Plataforma de receitas personalizadas**  
-  Um app que recomenda receitas com base nas preferências alimentares e restrições do usuário.  
-  🔗 [Leia o artigo completo](https://siteschapeco.com.br/glossario/o-que-e-yummly-descubra-a-plataforma-de-receitas/)
-
-- **Noom – Dieta baseada em ciência comportamental**  
-  Plataforma de reeducação alimentar com foco em psicologia e mudança de hábitos.  
-  🔗 [Leia o artigo completo](https://boaforma.abril.com.br/alimentacao/dieta-noom/)
-
-- **Gluten Free Scanner – Identificação de produtos sem glúten**  
-  Aplicativo que escaneia produtos para verificar se são livres de glúten, útil para celíacos.  
-  🔗 [Veja na App Store](https://apps.apple.com/us/app/the-gluten-free-scanner/id969482476)
+| ID     | Requisito Não Funcional                                                                                     |
+|--------|-------------------------------------------------------------------------------------------------------------|
+| RNF01  | O sistema deve garantir 99% de disponibilidade durante horários úteis.                                       |
+| RNF02  | A interface deve ser responsiva, adaptando-se perfeitamente a dispositivos móveis e desktops.               |
+| RNF03  | O sistema deve seguir diretrizes de acessibilidade (WCAG 2.1), incluindo usuários com deficiências visuais ou cognitivas. |
+| RNF04  | As ações do usuário (ex: favoritar, salvar, carregar conteúdo) devem ter resposta em no máximo 2 segundos.  |
+| RNF05  | Os dados dos usuários devem ser armazenados de forma segura, com criptografia e em conformidade com a LGPD. |
+| RNF06  | A versão MVP deve suportar até 500 usuários simultaneamente sem perda de desempenho.                        |
+| RNF07  | A linguagem da interface deve ser empática, inclusiva e simples, adequada à diversidade de perfis atendidos. |
+| RNF08  | O sistema deve estar preparado para futuras integrações com APIs externas (ex: serviços de saúde, bases nutricionais). |
 
 ---
+
+## 4. Observações Finais
+
+Este documento é vivo e evoluirá conforme o projeto avança. Os requisitos aqui descritos serão revisados e refinados com base em testes de usabilidade, feedback de usuários e a colaboração contínua de profissionais da saúde envolvidos na iniciativa.
+
