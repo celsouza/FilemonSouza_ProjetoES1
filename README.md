@@ -68,7 +68,12 @@ Doutor em Informática — Professor do ICET/UFAM
 
 
 ---
+# SafeFood
 
+🥗 **SafeFood - Pra manter cheio o estômago e aquecido o coração**
+
+Acesse nosso planejamento e mais informações no Notion: [SafeFood - Pra manter cheio o estômago e aquecido o coração](https://www.notion.so/SafeFood-Seguranca-Alimentar-1f04ee15d19a80bc8282f3eac4b6c1a0?pvs=4)
+---
 ## 📜 Licença
 
 Distribuído sob a Licença **GPL-3.0**.  
