@@ -1,4 +1,4 @@
-# Backlog do Produto
+# Backlog do Sprint
 
 ## 🟨 **Tarefas Pendentes (To Do)**
 
